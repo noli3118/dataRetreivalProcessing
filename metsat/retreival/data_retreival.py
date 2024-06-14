@@ -11,8 +11,8 @@ if __name__ == '__main__':
     client = cluster.get_client()
     print(client.dashboard_link)
 
-    api_key = '8fE_zRdHknUuhjW6MTUB1mWB1XMa'
-    api_secret = 'ulAzJ2ny5u1pvWKf4fnpX2ICoiQa'
+    api_key = ''
+    api_secret = ''
 
     cred = (api_key, api_secret)
 
